@@ -1,0 +1,18 @@
+{
+  "name": "ydhtml-cli-dev-template-custom-vue2",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.3"
+  }
+}
